@@ -8,7 +8,9 @@
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
 </p>
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+<!-- <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"> -->
+<!-- <img align="right" alt="typing" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pwYTd4cTE0NnVrYTR6MG5wMGp2dm1sOHNmb2YxdW82Zm4yanRleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAKXyzgLVtKsU/giphy.gif"> -->
+<img align="right" alt="typing" width="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGp6b3dvaWttbHJpNnFweWdiaDZvamhwZGRrcjMxNXllcjgyOXUxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif">
 
 ---
 
