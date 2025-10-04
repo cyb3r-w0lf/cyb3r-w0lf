@@ -15,9 +15,9 @@
 ---
 
 - 🔭 I'm a CyberSecurity Engineer who likes to Break and Secure stuffs.
-- 💬 Ask me about Web, Api, Android Security. 
+- 💬 Talks about Web, Api & Mobile Security. 
 - 🌱 I’m currently learning Reverse Engineering & Exploit Development.
-- 📫 How to reach me **akihaxor@proton.me**
+- 📫 Open to new opportunities **akihaxor@proton.me**
 - 🏠 Connect with me in [Linkedin](https://linkedin.com/in/aki007)
 ---
 
